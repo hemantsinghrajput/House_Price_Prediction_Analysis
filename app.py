@@ -183,7 +183,7 @@ selected_feature = st.selectbox('Select a feature:', features)
 
 # Plot line chart for the selected feature against the target
 st.subheader(f'Line Chart: {selected_feature} vs {target}')
-fig, ax = plt.subplots(figsize=(12, 6))
+fig, ax = plt.subplots(figsize=(20, 8))
 
 # Check if the selected feature is the target itself
 if selected_feature != target:
