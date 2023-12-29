@@ -27,8 +27,8 @@ User-friendly input sliders in the Streamlit app for predicting home prices.
 A dropdown to select features for individual analysis.
 Line charts for visualizing the relationship between selected features and the target variable.
 
-##📊 Visualizations: Histograms, correlation matrix, scatter plots, and line charts.
-##📈 Model Performance: Display of Mean Squared Error (MSE).
-##⚙️ Settings Sidebar: Analysis settings for distributions and correlations.
-##🔄 Data Processing: Data extraction, merging, and cleaning.
-##🚀 Streamlit App: User-friendly interface for predictions and analysis.
+->📊 Visualizations: Histograms, correlation matrix, scatter plots, and line charts.
+->📈 Model Performance: Display of Mean Squared Error (MSE).
+->⚙️ Settings Sidebar: Analysis settings for distributions and correlations.
+->🔄 Data Processing: Data extraction, merging, and cleaning.
+->🚀 Streamlit App: User-friendly interface for predictions and analysis.
