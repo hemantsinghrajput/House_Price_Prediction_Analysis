@@ -22,7 +22,7 @@ The Streamlit app includes a sidebar with settings for analyzing the distributio
 -Visualization
 The code generates various visualizations using Matplotlib and Seaborn. It displays the model's predictions against actual values, distribution histograms, correlation matrices, and scatter plots.
 
--Additional Features
+# Additional Features
 User-friendly input sliders in the Streamlit app for predicting home prices.
 A dropdown to select features for individual analysis.
 Line charts for visualizing the relationship between selected features and the target variable.
