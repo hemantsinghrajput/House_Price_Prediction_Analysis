@@ -4,6 +4,8 @@
 - Run file in commond promp using "<path> streamlit run app.py"
 
 -Dataset link :- "https://www.kaggle.com/datasets/madhurpant/factors-affecting-usa-national-home-prices"
+
+-Live link :- "https://housepricepredictionanalysis-g9ursxxenkgpcpabex9phj.streamlit.app/"
   
 -> Code Structure
 -Data Extraction and Merging
